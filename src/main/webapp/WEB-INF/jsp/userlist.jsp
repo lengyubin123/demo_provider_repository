@@ -30,6 +30,6 @@
 
 </form>
 <hr>
-<c:forEach var="user" items="${userlist}">${user}</c:forEach>
+<c:forEach var="user" items="${userlist}">${user}</c:forEach>...
 </body>
 </html>
